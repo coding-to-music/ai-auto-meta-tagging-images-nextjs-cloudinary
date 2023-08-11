@@ -14,6 +14,8 @@ Demo for tutorial [How to Automatically Tag & Categorize Images Using AI with Go
 
 📺 YouTube: https://www.youtube.com/watch?v=3OeEa2cZABM
 
+https://cloud.google.com/vision/
+
 <!-- <div style="text-align:center;">
   <img src="/images/chakra.jpg" alt="Image" />
   <p><em>Chakra Component Library with Next.js</em></p>
