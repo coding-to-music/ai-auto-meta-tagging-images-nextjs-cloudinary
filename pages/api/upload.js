@@ -20,5 +20,6 @@ export default async function handler(req, res) {
     categorization: "google_tagging",
     auto_tagging: 0.6,
   });
-  res.status(200).json(results);
+  // res.status(200).json(results);
+  res.status(200);
 }
